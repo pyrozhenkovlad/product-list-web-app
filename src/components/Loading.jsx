@@ -1,5 +1,4 @@
 import "antd/dist/antd.css";
-import { Spin, Space } from "antd";
 import { useEffect } from "react";
 
 const Loading = (props) => {
